@@ -1,4 +1,4 @@
-🥊 Fight Point Game
+#🥊 Fight Point Game
 
 Welcome to the ReadMe file of the game!
 I hope the instructions won't be too difficult 😉
